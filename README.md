@@ -111,6 +111,7 @@ Build an API inside the `api` folder with endpoints for:
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. Explain the difference between Relational Databases and SQL.
-2. Why do tables need a Primary Key?
-3. What is the name given to a table column that references the Primary Key on another table?
-4. What do we need in order to have a _many to many_ relationship between two tables?
+ Sql makes things easier by letting you see the table
+2. Why do tables need a Primary Key? it ensures row level accessibility
+3. What is the name given to a table column that references the Primary Key on another table? foreign key
+4. What do we need in order to have a _many to many_ relationship between two tables? intermediate table or sometimes a linking or junction table
